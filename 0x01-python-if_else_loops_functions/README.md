@@ -18,3 +18,9 @@ Python control statements are essential tools for directing the flow of a progra
 13-insert_number.c: C function that inserts a number into a sorted linked list.
 100-print_tebahpla.py: Python program that prints the alphabet in reverse order, alternating lowercase and uppercase, not followed by a new line.
 101-remove_char_at.py: Python function that creates a copy of a string without the character at position n.
+
+        To run the files follow the below steps
+    1. clone the repository on your local machine
+    2. navigate to the directory through the terminal
+    3. use chmod +x <nameof the file>
+    4. use ./<name of the file> to see the output
