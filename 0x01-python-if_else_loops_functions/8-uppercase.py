@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author - Agure Lameck
+# Author - Agure Lameck
 
 def uppercase(str):
     """Print a string in uppercase."""
