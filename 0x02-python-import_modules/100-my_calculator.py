@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Author - Agure L
 
 if __name__ == "__main__":
     """handles basic operations"""
