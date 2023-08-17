@@ -1,4 +1,15 @@
 #!/usr/bin/python3
-def square_matrix_simple(matrix=[]):
-    new_matrix = [[x ** 2 for x in row] for row in matrx]
-    return new_matrix
+
+
+def search_replace(my_list, search, replace):
+    """
+    A function that replaces all occurrences
+    of an element by another in a new list
+    """
+    new_list = []
+    for element in my_list:
+        if element == search:
+            new_list.append(replace)
+        else:
+            new_list.append(element)
+    return new_list
